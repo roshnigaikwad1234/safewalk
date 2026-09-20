@@ -1,0 +1,6 @@
+requests
+google-generativeai
+python-dotenv
+streamlit==1.36.0
+folium==0.16.0
+streamlit-folium==0.22.0
